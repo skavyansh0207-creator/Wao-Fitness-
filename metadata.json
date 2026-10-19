@@ -1,0 +1,8 @@
+{
+  "name": "Wao Fitness Chandigarh",
+  "description": "Wao Fitness - Premium Fitness Center & Gym in SCO 34-37, Madhya Marg, Sector 9D, Chandigarh. Strength training, CrossFit, HIIT, Zumba, Kickboxing, Yoga & custom nutrition plans. Rated 4.9★ (1.3k+ Google reviews).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
